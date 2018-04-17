@@ -1,2 +1,0 @@
-# appgo-test
-Testowe repozytorium
